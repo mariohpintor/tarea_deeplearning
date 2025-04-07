@@ -1,0 +1,7 @@
+name: tareaDL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow
+prefix: //anaconda3/envs/tareaDL
