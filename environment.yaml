@@ -3,5 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - tensorflow
+  - python=3.11
 prefix: //anaconda3/envs/tareaDL
